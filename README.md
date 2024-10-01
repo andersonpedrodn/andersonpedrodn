@@ -34,7 +34,7 @@
   
 </div>
 
-![Snake animation](https://github/andersonpedrodn/andersonpedrodn/blob/output/github-contribution-grid-snakes.svg)
+![Snake animation](https://github/andersonpedrodn/andersonpedrodn/blob/output/github-contribution-grid-snake.svg)
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=andersonpedrodn&repo=andersonpedrodn&theme=react)](https://github.com/andersonpedrodn/andersonpedrodn)
 
 
