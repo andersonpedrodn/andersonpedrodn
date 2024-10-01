@@ -1,16 +1,15 @@
 <div>
   <a href="https://github.com/andersonpedrodn">
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=andersonpedrodn&repo=andersonpedrodn&theme=react)](https://github.com/andersonpedrodn/andersonpedrodn)
 </div>
 
-- 🔭 Atualmente estou trabalhando na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN
-- 🌱 Estudando: Angular com Java ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 Atualmente, estou trabalhando na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN, focando no desenvolvimento de sistemas web e conteúdos multimídia.
+- 🌱 Estudando: Estudando Angular e Java, além de temas como JPA, Docker e Kubernetes.
+- 👯 Estou buscando colaborar em projetos de desenvolvimento web, especialmente utilizando Angular e Java.
+- 🤔 Estou buscando ajuda com a implementação de melhores práticas em projetos Angular e integração com APIs.
+- 💬 Pergunte-me sobre desenvolvimento web, arquitetura de software e o uso de frameworks como Angular.
+- 📫 Você pode me contatar pelo meu e-mail: andersonpedrodn@gmail.com ou através do meu LinkedIn:/andersonpedrodn-programador/.
 - 😄 Pronouns: Ele
-- ⚡ Fun fact: ...
+- ⚡ Uma curiosidade sobre mim é que estou começando a aprender a usar o Blender para modelagem 3D em um projeto.
 
   
 
