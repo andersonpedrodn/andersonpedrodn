@@ -1,7 +1,6 @@
-## Hi there 👋
-**andersonpedrodn/andersonpedrodn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/andersonpedrodn">
+</div>
 
 - 🔭 Atualmente estou trabalhando na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN
 - 🌱 Estudando: Angular com Java ...
@@ -11,6 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Ele
 - ⚡ Fun fact: ...
+
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,3 +33,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/andersonpedrodn-programador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github/andersonpedrodn/andersonpedrodn/blob/output/github-contribution-grid-snakes.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=andersonpedrodn&repo=andersonpedrodn&theme=react)](https://github.com/andersonpedrodn/andersonpedrodn)
+
+
