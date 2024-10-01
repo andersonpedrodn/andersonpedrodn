@@ -1,39 +1,72 @@
-<div>
-  <a href="https://github.com/andersonpedrodn">
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">🔭 Atualmente, sou bolsista de extensão no setor de Arquitetura e Urbanismo da UFRN, onde estou desenvolvendo a página da minha pesquisa, além de atuar na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN.<br><br>🌱 Estudando: Estudando Angular e Java, além de temas como JPA, Docker e Kubernetes.<br><br>👯 Estou buscando colaborar em projetos de desenvolvimento web, especialmente utilizando Angular e Java.<br><br>🤔 Estou buscando ajuda com a implementação de melhores práticas em projetos Angular e integração com APIs.<br><br>💬 Pergunte-me sobre desenvolvimento web, arquitetura de software e o uso de frameworks como Angular.<br><br>📫 Você pode me contatar pelo meu e-mail: andersonpedrodn@gmail.com ou através do meu LinkedIn: https://www.linkedin.com/in/andersonpedrodn-programador/.<br><br>😄 Pronomes: Ele<br><br>⚡ Uma curiosidade sobre mim é que estou começando a aprender a usar o Blender para modelagem 3D em um projeto.</p>
+
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bulma/00D1B2" height="40" alt="bulma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
 </div>
 
-- 🔭 Atualmente, sou bolsista de extensão no setor de Arquitetura e Urbanismo da UFRN, onde estou desenvolvendo a página da minha pesquisa, além de atuar na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN.
-- 🌱 Estudando: Estudando Angular e Java, além de temas como JPA, Docker e Kubernetes.
-- 👯 Estou buscando colaborar em projetos de desenvolvimento web, especialmente utilizando Angular e Java.
-- 🤔 Estou buscando ajuda com a implementação de melhores práticas em projetos Angular e integração com APIs.
-- 💬 Pergunte-me sobre desenvolvimento web, arquitetura de software e o uso de frameworks como Angular.
-- 📫 Você pode me contatar pelo meu e-mail: andersonpedrodn@gmail.com ou através do meu LinkedIn: https://www.linkedin.com/in/andersonpedrodn-programador/.
-- 😄 Pronouns: Ele
-- ⚡ Uma curiosidade sobre mim é que estou começando a aprender a usar o Blender para modelagem 3D em um projeto.
+###
 
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andersonpedrodn&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/andersonpedrodn/github-readme-stats#gh-dark-mode-only)
+<br clear="both">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Andi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Andi-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Andi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Andi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andi-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Andi-Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
-  <img align="center" alt="Andi-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/andersonpedrodn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href = "mailto:andersonpedrodn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/andersonpedrodn-programador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonpedrodn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonpedrodn&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andersonpedrodn&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+###
 
+<h2 align="left">Mídias sociais</h2>
 
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/andersonpedrodn-programador/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="andersonpedrodn@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="andersonpedrodn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/andersonpedrodn?igsh=c2k5eW4wOWEwbWZ6" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
