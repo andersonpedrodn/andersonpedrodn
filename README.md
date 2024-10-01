@@ -11,7 +11,7 @@
 - 😄 Pronouns: Ele
 - ⚡ Uma curiosidade sobre mim é que estou começando a aprender a usar o Blender para modelagem 3D em um projeto.
 
-  
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andersonpedrodn&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/andersonpedrodn/github-readme-stats#gh-dark-mode-only)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
