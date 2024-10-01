@@ -2,7 +2,26 @@
 
 ###
 
-<p align="left">🔭 Atualmente, sou bolsista de pesquisa no projeto Palimpsesto, onde contribuo no desenvolvimento da página sobre as praças do centro histórico de Natal. Também sou bolsista de extensão no Departamento de Arquitetura e Urbanismo da Universidade Federal do Rio Grande do Norte (UFRN), desenvolvendo uma página comemorativa dos 50 anos do curso de Arquitetura e Urbanismo, além de atuar na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN.<br><br>🌱 Estudando: Estudando Angular e Java, além de temas como JPA, Docker e Kubernetes.<br><br>👯 Estou buscando colaborar em projetos de desenvolvimento web, especialmente utilizando Angular e Java.<br><br>🤔 Estou buscando ajuda com a implementação de melhores práticas em projetos Angular e integração com APIs.<br><br>💬 Pergunte-me sobre desenvolvimento web, arquitetura de software e o uso de frameworks como Angular.<br><br>📫 Você pode me contatar pelo meu e-mail: andersonpedrodn@gmail.com ou através do meu LinkedIn: https://www.linkedin.com/in/andersonpedrodn-programador/.<br><br>😄 Pronomes: Ele<br><br>⚡ Uma curiosidade sobre mim é que estou começando a aprender a usar o Blender para modelagem 3D em um projeto.</p>
+<p align="left">🔭 Atualmente, sou bolsista de pesquisa no projeto Palimpsesto, onde contribuo no desenvolvimento da página sobre as praças do centro histórico de Natal. Também sou bolsista de extensão no Departamento de Arquitetura e Urbanismo da Universidade Federal do Rio Grande do Norte (UFRN), desenvolvendo uma página comemorativa dos 50 anos do curso de Arquitetura e Urbanismo, além de atuar na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN.<br><br>
+  <hr/>
+🎓 <u><b>Formação:</b></u><br> 
+    <ul>
+    <li>Técnico em Informática para Internet pelo Instituto Metrópole Digital (IMD) - UFRN</li> 
+    <li>Formando em Análise e Desenvolvimento de Sistemas pela Universidade Estácio</li>
+    <li>Formando em Engenharia de Software pela UniAmérica</li>
+  </ul> <br><hr>
+🌱 <u><b>Estudando:</b></u><br> 
+  Estudando Angular e Java, além de temas como JPA, Docker e Kubernetes.<br><br>
+  <hr/>
+💬 <b><u>Objetivo:</u></b>
+  Estou buscando colaborar em projetos de desenvolvimento web, especialmente utilizando Angular e Java.<br><br> 
+  <hr/>
+  <u><b>📫 Contato:</b></u><br>
+  Você pode me contatar pelo meu e-mail: andersonpedrodn@gmail.com ou através do meu LinkedIn: https://www.linkedin.com/in/andersonpedrodn-programador/.<br><br> 
+  <hr/>
+  <u><b>⚡Curiosidade:</b></u>
+  Uma curiosidade sobre mim é que estou começando a aprender a usar o Blender para modelagem 3D em um projeto.
+  </p> <br><br>
 
 ###
 
