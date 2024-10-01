@@ -2,12 +2,12 @@
   <a href="https://github.com/andersonpedrodn">
 </div>
 
-- 🔭 Atualmente, estou trabalhando na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN, focando no desenvolvimento de sistemas web e conteúdos multimídia.
+- 🔭 Atualmente, sou bolsista de extensão no setor de Arquitetura e Urbanismo da UFRN, onde estou desenvolvendo a página da minha pesquisa, além de atuar na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN.
 - 🌱 Estudando: Estudando Angular e Java, além de temas como JPA, Docker e Kubernetes.
 - 👯 Estou buscando colaborar em projetos de desenvolvimento web, especialmente utilizando Angular e Java.
 - 🤔 Estou buscando ajuda com a implementação de melhores práticas em projetos Angular e integração com APIs.
 - 💬 Pergunte-me sobre desenvolvimento web, arquitetura de software e o uso de frameworks como Angular.
-- 📫 Você pode me contatar pelo meu e-mail: andersonpedrodn@gmail.com ou através do meu LinkedIn:/andersonpedrodn-programador/.
+- 📫 Você pode me contatar pelo meu e-mail: andersonpedrodn@gmail.com ou através do meu LinkedIn: https://www.linkedin.com/in/andersonpedrodn-programador/.
 - 😄 Pronouns: Ele
 - ⚡ Uma curiosidade sobre mim é que estou começando a aprender a usar o Blender para modelagem 3D em um projeto.
 
