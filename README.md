@@ -17,7 +17,7 @@
   
 ⚡<u><b>Curiosidade:</b></u><br>
   Uma curiosidade sobre mim é que estou começando a aprender a usar o Blender para modelagem 3D em um projeto.
-  </p> <br><br>
+  </p> 
 
 ###
 
