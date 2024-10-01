@@ -1,5 +1,6 @@
 <div>
   <a href="https://github.com/andersonpedrodn">
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=andersonpedrodn&repo=andersonpedrodn&theme=react)](https://github.com/andersonpedrodn/andersonpedrodn)
 </div>
 
 - 🔭 Atualmente estou trabalhando na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN
@@ -34,7 +35,6 @@
   
 </div>
 
-![Snake animation](https://github/andersonpedrodn/andersonpedrodn/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=andersonpedrodn&repo=andersonpedrodn&theme=react)](https://github.com/andersonpedrodn/andersonpedrodn)
+
 
 
