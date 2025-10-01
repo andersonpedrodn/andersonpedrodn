@@ -2,21 +2,28 @@
 
 ###
 
-<p align="left">🔭 Atualmente, sou bolsista de pesquisa no projeto Palimpsesto, onde contribuo no desenvolvimento da página sobre as praças do centro histórico de Natal. Também sou bolsista de extensão no Departamento de Arquitetura e Urbanismo da Universidade Federal do Rio Grande do Norte (UFRN), desenvolvendo uma página comemorativa dos 50 anos do curso de Arquitetura e Urbanismo, além de atuar na Seção de Novas Tecnologias e Desenvolvimento Web do TRE-RN.<br><br>
+<p align="left">🔭 Atualmente, sou estudante de <b>Bacharelado em Tecnologia da Informação</b> na UFRN e de <b>Análise e Desenvolvimento de Sistemas na Estácio</b>.  
+Tenho grande interesse em desenvolver soluções tecnológicas voltadas para a área da saúde, explorando temas como <b>interfaces cérebro-máquina</b>, aplicações de <b>IoT</b> e <b>sistemas inteligentes.<br><br>
 🎓<u><b>Formação:</b></u><br> 
     <ul>
-    <li>Técnico em Informática para Internet pelo Instituto Metrópole Digital (IMD) - UFRN</li> 
-    <li>Formando em Análise e Desenvolvimento de Sistemas pela Universidade Estácio</li>
-    <li>Formando em Engenharia de Software pela UniAmérica</li>
+    <li>Formando em Bacharelado em Tecnologia da Informação (BTI) - IMD/UFRN</li> 
+    <li>Técnico em Informática para Internet - IMD/UFRN</li>
+    <li>Bacharel em Psicologia - Universidade Potiguar</li> 
+    <li>Formando em Análise e Desenvolvimento de Sistemas - Universidade Estácio</li>
+    <li>Formando em Engenharia de Software - UniAmérica</li>
   </ul> <br>
-🌱<u><b>Estudando:</b></u><br> 
-  Estudando Angular e Java, além de temas como JPA, Docker e Kubernetes.<br><br>
+🌱<u><b>Estudando:</b></u><br>
+    - Desenvolvimento web com **Angular** e **Java**
+    - Fundamentos de **Sistemas Embarcados** em **C**
+    - Conceitos de **Machine Learning** e **Computação Cognitiva** 
+  
   
 💬<b><u>Objetivo:</u></b><br>
-  Estou buscando colaborar em projetos de desenvolvimento web, especialmente utilizando Angular e Java.<br><br> 
+  Busco colaborar em projetos que unam **tecnologia e saúde**, especialmente voltados para monitoramento, acessibilidade e interfaces inovadoras que melhorem a qualidade de vida das pessoas.<br><br> 
   
 ⚡<u><b>Curiosidade:</b></u><br>
-  Uma curiosidade sobre mim é que estou começando a aprender a usar o Blender para modelagem 3D em um projeto.
+  - Tenho formação em Psicologia, com enfase em Neuropsicologia, o que me permite unir conhecimentos de comportamento humano à tecnologia.
+  - Apaixonado por neurociência e tecnologia.
   </p> 
 
 ###
